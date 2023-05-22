@@ -9,7 +9,7 @@ const Line = styled.div`
   ${(props) =>
     props.complete &&
     css`
-      background-color: ${(props) => props.accentColor || '#24a19c'};
+      background-color: ${(props) => props.accentColor || '#004a6b'};
       height: 2px;
     `}
 `
