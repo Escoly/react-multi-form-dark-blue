@@ -20,7 +20,7 @@ const Pill = styled.div`
           ? props.textColor || props.textColor
           : props.textColor};
       font-weight: ${(props) => (props.active ? 600 : 400)};
-      text-transform: uppercase;
+      text-transform: capitalize;
       font-size: 11px;
       bottom: -20px;
       left: 50%;

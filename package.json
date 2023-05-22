@@ -1,8 +1,8 @@
 {
-  "name": "react-multi-form",
-  "version": "1.0.5",
-  "description": "A React Component to quicky generate a multi-step form",
-  "author": "harshtomar6",
+  "name": "react-multi-form-dark-blue",
+  "version": "1.0.0",
+  "description": "A React Component to quicky generate a multi-step form. modified by escoly to change the color and text color",
+  "author": "harshtomar6, escoly",
   "license": "MIT",
   "repository": "harshtomar6/react-multi-form",
   "homepage": "https://harshtomar6.github.io/react-multi-form/",
@@ -54,5 +54,10 @@
   "dependencies": {
     "styled-components": "^5.1.1"
   },
-  "keywords": ["react-multi-form", "react-multi-step", "Multi Step Form React", "multi-step" ]
+  "keywords": [
+    "react-multi-form",
+    "react-multi-step",
+    "Multi Step Form React",
+    "multi-step"
+  ]
 }
